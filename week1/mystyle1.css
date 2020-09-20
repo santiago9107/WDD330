@@ -1,7 +1,7 @@
 body {
  background-color: #87CEFA;
  color: black;
- text-align: left;
+ text-align: center;
  font-size: medium;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -11,7 +11,7 @@ body {
  background-color: #0066ff;
  color: #ffffff;
  text-shadow:5px 5px 10px white;
- text-align: left;
+ text-align: center;
  font: italic 200% fantasy;
  font-variant-ligatures: normal;
  font-family: inherit;
