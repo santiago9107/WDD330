@@ -11,13 +11,10 @@ body {
  background-color: #0066ff;
  color: #ffffff;
  text-shadow:5px 5px 10px white;
- text-align: center;
+ text-align: left;
  font: italic 200% fantasy;
  font-variant-ligatures: normal;
  font-family: inherit;
 }
 
-label {
-width:60px;
-}
 
