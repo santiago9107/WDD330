@@ -1,7 +1,7 @@
 body {
  background-color: #87CEFA;
  color: black;
- text-align: left;
+ text-align: right;
  font-size: medium;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -21,11 +21,3 @@ label {
 width:60px;
 }
 
-input:invalid {
-  border: 2px solid orange;
-}
-
-
-input:valid {
-  border: 2px solid black;
-}
