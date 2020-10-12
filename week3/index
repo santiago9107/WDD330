@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 3 Assignments</title>
+    <link rel="stylesheet" type="text/css" href="mystyle3.css"> 
+</head>
+<body>
+    <h1>Week 2 Questions:</h1>
+    <p>- Why const does not make immutable an object?</p>
+    <p>- In what ways is it useful the string representation inside parentheses?</p>
+    <p>- Why in this example: 10..toString(); is used a double point (..)?</p>
+    <p>- In what ways Bitwise Operators can be used in a real context?</p>
+    <p>- Is it more convenient to use hard equeality as much as possible to create a consistent program?</p>
+    <p>- Is not necessary to inicialize the arrays?</p>
+    <p>- In what way could be useful to modify an array lenght?</p>
+    <h1>Week 2 Notes:</h1>
+    <p>- undefined, NaN, Infinity are not reserved words but should have been.</p>
+    <p>- Primitive data types: string, symbol, number, boolean, undefined, null.</p>
+    <p>- Any value that is not a primitive data is an object.</p>
+    <p>- It is possible to find the type of a value using the operator typeof.</p>
+    <p>- JavaScript uses the keywords const and let to declare variables.</p>
+    <p>- const is used when the variable will not be reassigned to another value.</p>
+    <p>- let is used if the variable might be reassigned later in the program.</p>
+    <p>- Use global variables as less as possible.</p>
+    <p>- Using let or const to declare variables will ensure they are block scoped, and it
+is good practice.</p>
+    <p>- Variables that start with an underscore generally refer to private properties and
+methods</p>
+    <p>- When const is used, it is a good habit to finish the line with a semicolon.</p>
+    <p>- For last occurrence of a character use the lastIndexOf() method.</p>
+    <p>- Use includes() to know if certain character is included in a setring.</p>
+    <p>- try to be very explicit about the types of values you are working with.</p>
+    <p>- Using double negation (!!) it is possible to find out if a value is truthy or falsy</p>
+    <p>-The delete operator will remove an item from an array. However, the item will be considered as undefined.</p>
+    <p>- Taking the values out of an array and presenting them as individual values is called destructing an array.</p>
+    <p>- Use pop() method to remove the last item of an array. shift() method removes the first item. The push() method appends a new value to the end of the array. unshift() method makes it at the beginning.</p>
+</body>
+</html>
