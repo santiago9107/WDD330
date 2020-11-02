@@ -20,7 +20,8 @@
     <p>- If the function that’s called requires any parameters, these need to be provided as arguments after the first argument, which is always the value of this.</p>
     <p>- Memoization: we can save the result in a cache property. Then if the same argument is used again later, we can return the value from the cache, rather than having to compute the result again.</p>
     <p>- IIFE is invoked as soon as it is defined placing parenthesis at the end of the function definition. </p>
-    
-
+    <p>- Use temp for temporary variables.</p>
+    <p>- Placing any code that uses the temporary variable inside an IIFE will ensure it’s only available while the IIFE is invoked, then it will disappear. </p>
+    <p>- An IIFE can be used to enclose a block of code inside its own private scope so it doesn’t interfere with any other part of the program.</p>
 </body>
 </html>
