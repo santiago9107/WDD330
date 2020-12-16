@@ -1,5 +1,5 @@
 const content = [
-  { id: 1, title: "link 1", img: "img1.jpg", text: "text link 1" },
+  { id: 1, title: "Chemoteraphy definition:", img: "img1.jpg", text: "text link 1" },
   { id: 2, title: "link 2", img: "img1.jpg", text: "text link 2" },
   { id: 3, title: "link 3", img: "img1.jpg", text: "text link 3" },
   { id: 4, title: "link 4", img: "img1.jpg", text: "text link 4" },
